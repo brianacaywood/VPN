@@ -22,7 +22,7 @@ In this tutorial, we observe virtual machine IP address and location before then
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://user-images.githubusercontent.com/131008349/232944197-50f5317d-7e4c-49e6-8be4-e5683e7d0bf0.PNG" height="80%" width="80%" alt="Create subscription in Azure"/>
+<img src="https://user-images.githubusercontent.com/131008349/233221880-0a370695-165c-4a5b-877c-8ced25e0dba4.PNG" height="80%" width="80%" alt="Create subscription in Azure"/>
 </p>
 <p>
 Login to portal.azure.com and create subscription for your resource groups, subnet mask, and virtual machine to be housed under. 
